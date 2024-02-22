@@ -17,6 +17,7 @@ This project is a Node.js application designed to interact with YouTube videos, 
 
 - Node.js (v14.0.0 or later)
 - npm (v6.0.0 or later)
+- An OpenAI API Key
 
 ### Installation
 
@@ -32,7 +33,13 @@ This project is a Node.js application designed to interact with YouTube videos, 
    ```
    npm install
    ```
-
+4. Create .env file
+   ```
+   cp .env.samle .env
+   ```
+   
+5. Set you own OpenAI API key.
+   
 ### Running the Application
 
 To start the application, run the following command in the terminal:
