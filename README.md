@@ -1,4 +1,4 @@
-# Project Title
+# TubeScan: Rapid Info Retrieval
 
 ## Overview
 
@@ -33,12 +33,12 @@ This project is a Node.js application designed to interact with YouTube videos, 
    ```
    npm install
    ```
-4. Create .env file
+4. Create `.env` file
    ```
    cp .env.samle .env
    ```
    
-5. Set you own OpenAI API key.
+5. Set your own OpenAI API key.
    
 ### Running the Application
 
