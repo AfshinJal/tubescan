@@ -12,7 +12,7 @@
     "tubescan"
   ],
   "author": "Afshin <afshnjalili@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@langchain/community": "^0.0.32",
     "@langchain/openai": "^0.0.14",
