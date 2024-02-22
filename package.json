@@ -1,0 +1,24 @@
+{
+  "name": "tubescan",
+  "version": "0.1.0",
+  "description": "a time-saving and cost-effective interactive command line application that allows you to retrieve information from a YouTube video without having to watch it.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tubescan"
+  ],
+  "author": "Afshin <afshnjalili@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.0.32",
+    "@langchain/openai": "^0.0.14",
+    "@xenova/transformers": "^2.15.1",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.1.21",
+    "youtube-transcript": "^1.0.6"
+  }
+}
